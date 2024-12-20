@@ -15,7 +15,7 @@ with open('data/conv.json', 'r') as file:
 config_list = [
     {
         "model": "mixtral-8x7b-32768",
-        "api_key": "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",
+        "api_key": "GROQ_API_KEY",
         "api_type": "groq",
     }
 ]
