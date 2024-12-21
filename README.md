@@ -9,3 +9,12 @@ Abstract: Trust is a cornerstone of effective human-agent communication, influen
 streamlit run chatbot-UI.py
 ```
 __NOTE:__ API key need to set up before launching VizTrust tool.
+
+## Citation
+```
+@article{wang2024user,
+  title={User Trust Modeling in Conversational User Interface Based on Word Embedding Bias},
+  author={WANG, XIN and KOJAKU, SADAMORI},
+  year={2024}
+}
+```
