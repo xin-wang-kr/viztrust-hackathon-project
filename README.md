@@ -1,4 +1,4 @@
-# VizTrust: A Visual Analytics Tool for Capturing User Trust Development in Human-AI Communication
+# VizTrust: A Visual Analytics Tool for Capturing User Trust Dynamics in Human-AI Communication
 
 This is project submission to LLM Agent Hackathon. 
 
